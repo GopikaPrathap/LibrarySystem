@@ -1,0 +1,16 @@
+#fictionTitle{
+    color: burlywood;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bookList img{
+    width: 195px; 
+    height: 250px;
+}
+.bookList p{
+    font-size: 85%;
+}
+.bookList h5{
+    font-size: 100%;
+    font-weight: bolder;
+}

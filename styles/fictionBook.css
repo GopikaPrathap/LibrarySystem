@@ -1,0 +1,17 @@
+.carosel-img{
+    transition: transform 0.4s ease;
+}
+.carosel-img:hover{
+    transform: scale(1.5);
+}
+.mainDiv{
+    background-color: rgb(0, 0, 0,0.5);
+}
+.description{
+    color: white;
+    text-align: center;
+}
+.description p{
+    font-size: large;
+    font-weight:bolder;
+}
